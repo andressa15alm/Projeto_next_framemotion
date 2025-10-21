@@ -1,4 +1,4 @@
-# Meta Verso
+# Metaverso
 
 ## Sobre o projeto
 Projeto utilizando Next 13 e Framer Motion & Tailwind CSSe 
