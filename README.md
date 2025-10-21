@@ -1,4 +1,4 @@
-# youtube_clone
+# Meta Verso
 
 ## Sobre o projeto
 Projeto utilizando Next 13 e Framer Motion & Tailwind CSSe 
